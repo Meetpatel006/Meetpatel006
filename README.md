@@ -50,4 +50,4 @@ Feel free to explore my repositories and don't hesitate to reach out if you'd li
 
 ---
 
-\*\*"The only way to do great work is to love what you do." - Steve Jobs\*\*
+"The only way to do great work is to love what you do." - Steve Jobs
