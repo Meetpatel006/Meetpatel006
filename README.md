@@ -27,7 +27,6 @@ I'm currently enhancing my Python skills through the **CS50 Python 2024** course
 ### Chrome Extension for Coding Efficiency
 I'm working on a Chrome extension designed to boost coding skills and efficiency:
 - Redirects search queries to coding platforms (e.g., Codeforces) for code submission
-- Seamlessly resumes normal browsing after submission
 - Aims to integrate coding practice into daily browsing habits
 
 ## 🎓 Certifications
