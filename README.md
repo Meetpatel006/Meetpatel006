@@ -15,7 +15,7 @@ If you're looking for a driven software engineer who enjoys tackling challenges,
 ## 💻 Skills  
 - **Languages**: Python, C++, C, JavaScript, TypeScript  
 - **Web Development**: HTML, CSS  
-- **Tools & Frameworks**: Hashcat, Firebase, Tkinter  
+- **Tools & Frameworks**: Metasploit, Beef, Hashcat, Firestore, Tkinter  
 - **Specialized Knowledge**: IT Security, Chrome Extensions  
 
 ---
