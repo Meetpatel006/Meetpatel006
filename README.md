@@ -13,8 +13,7 @@ If you're looking for a driven software engineer who enjoys tackling challenges,
 ---
 
 ## 💻 Skills  
-- **Languages**: Python, C++, C, JavaScript, TypeScript  
-- **Web Development**: HTML, CSS  
+- **Languages**: Python, C++, C, JavaScript, TypeScript   
 - **Tools & Frameworks**: Metasploit, Beef, Hashcat, Firestore, Tkinter  
 - **Specialized Knowledge**: IT Security, Chrome Extensions  
 
@@ -54,25 +53,6 @@ The project taught me to think critically, design thoughtfully, and solve real-w
 
 ---
 
-## 📚 Current Learning  
-I'm currently enhancing my Python skills through the **CS50 Python 2024** course.  
-
----
-
-## 🛠️ Upcoming Project: Chrome Extension for Coding Efficiency  
-
-I'm developing a Chrome extension aimed at streamlining coding practices during daily web browsing.  
-
-**Features:**  
-- Automatically redirects coding-related search queries to platforms like **Codeforces**.  
-- Encourages users to engage in coding challenges seamlessly throughout the day.  
-- Turns coding into a habitual part of browsing, boosting both coding efficiency and skill development.  
-
-**Goal:**  
-To integrate continuous learning and practice into daily digital routines, making skill improvement an organic part of our online experience.  
-
----
-
 ## 🎓 Certifications  
 
 - **CS50 Certificate of Completion**: [View Certificate](https://certificates.cs50.io/9e6b6560-12ab-42ff-9b1e-4567953d1e94.pdf?size=letter)  
@@ -84,7 +64,6 @@ To integrate continuous learning and practice into daily digital routines, makin
 
 I'm always open to exciting collaboration opportunities! I'm particularly interested in:  
 - Open-source projects.  
-- Web development initiatives.  
 - Innovative software solutions.  
 
 ---
