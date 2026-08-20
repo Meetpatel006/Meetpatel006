@@ -15,10 +15,4 @@ I learn by building, breaking, and fixing systems under real constraints. That's
 - Automation systems that actually reduce manual work
 - Building things that people use, not just showcase
 
-## Connect
-
-- [X](https://x.com/meetpatelyt007) 
-- [LinkedIn](https://bit.ly/3NELCvd)
-- [Mail](mailto:meetpatel221@proton.me)
-
 *"Build things that matter. Ignore the noise."*
